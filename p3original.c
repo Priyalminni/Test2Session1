@@ -25,7 +25,7 @@ void output(int n,int is_prime)
 }
 int main()
 {
-  int n,ispr;
+  int n,isprime;
   n=input_number();
   ispr=is_prime(n);
   output(n,ispr);
